@@ -35,4 +35,4 @@ Chatango Moderator Bot
  * Perma requests (from mods)
  * Users able to report other users either via the web interface or chat using the bot
  * Moderator permission templates
-* Cakes
+* Cakes & Fancy Tea
