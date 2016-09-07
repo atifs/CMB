@@ -1,0 +1,2 @@
+# CMB
+Chatango Moderator Bot
